@@ -1,3 +1,4 @@
+.env
 env
 notebooks/data
 notebooks/.ipynb_checkpoints
